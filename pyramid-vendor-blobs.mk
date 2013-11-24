@@ -63,6 +63,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libmmmpod.so:/system/lib/libmmmpod.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmstillomx.so:/system/lib/libmmstillomx.so \
   vendor/htc-extra/pyramid/proprietary/lib/liboemcamera.so:/system/lib/liboemcamera.so \
+   vendor/htc-extra/pyramid/proprietary/lib/libOlaEngineNew.so:/system/lib/libOlaEngineNew.so \
   vendor/htc-extra/pyramid/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
   vendor/htc-extra/pyramid/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc-extra/pyramid/proprietary/etc/calibration:system/etc/calibration \
