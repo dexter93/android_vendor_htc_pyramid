@@ -96,6 +96,9 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libgsl.so:system/lib/libgsl.so \
   vendor/htc-extra/pyramid/proprietary/lib/libOpenVG.so:system/lib/libOpenVG.so \
   vendor/htc-extra/pyramid/proprietary/lib/libsc-a2xx.so:system/lib/libsc-a2xx.so \
+  vendor/htc-extra/pyramid/proprietary/lib/egl/libplayback_adreno200.so:system/libegl/libplayback_adreno200.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libOpenCL.so:system/lib/libOpenCL.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libllvm-arm.so:system/lib/libllvm-arm.so \
   vendor/htc-extra/pyramid/proprietary/lib/hw/gps.default.so:system/lib/hw/gps.default.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmm-color-convertor.so:system/lib/libmm-color-convertor.so \
   vendor/htc-extra/pyramid/proprietary/lib/libdiag.so:system/lib/libdiag.so \
