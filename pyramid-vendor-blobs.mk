@@ -39,6 +39,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/bin/thermald:system/bin/thermald \
   vendor/htc-extra/pyramid/proprietary/bin/zchgd:system/bin/zchgd \
   vendor/htc-extra/pyramid/proprietary/bin/awb_camera:system/bin/awb_camera \
+  vendor/htc-extra/pyramid/proprietary/bin/rild:system/bin/rild \
   vendor/htc-extra/pyramid/proprietary/lib/libBeautyChat.so:/system/lib/libBeautyChat.so \
   vendor/htc-extra/pyramid/proprietary/lib/libcameraasd.so:/system/lib/libcameraasd.so \
   vendor/htc-extra/pyramid/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
@@ -96,6 +97,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libdll.so:system/lib/libdll.so \
   vendor/htc-extra/pyramid/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
   vendor/htc-extra/pyramid/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libril.so:system/lib/libril.so \
   vendor/htc-extra/pyramid/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
   vendor/htc-extra/pyramid/proprietary/lib/libhtc_rilhook.so:system/lib/libhtc_rilhook.so \
   vendor/htc-extra/pyramid/proprietary/lib/libidl.so:system/lib/libidl.so \
