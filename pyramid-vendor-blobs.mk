@@ -68,21 +68,12 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc-extra/pyramid/proprietary/etc/calibration:system/etc/calibration \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/BCM4330B1_002.001.003.0833.0845.hcd:system/etc/firmware/BCM4330B1_002.001.003.0833.0845.hcd \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/a225_pfp.fw:system/etc/firmware/a225_pfp.fw \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4330_p2p_b2.bin:system/etc/firmware/fw_bcm4330_p2p_b2.bin \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4330_apsta_b2.bin:system/etc/firmware/fw_bcm4330_apsta_b2.bin \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/a225_pm4.fw:system/etc/firmware/a225_pm4.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b03:system/etc/firmware/vidc.b03 \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4330_b2.bin:system/etc/firmware/fw_bcm4330_b2.bin \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/a225p5_pm4.fw:system/etc/firmware/a225p5_pm4.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/default_bak.acdb:system/etc/firmware/default_bak.acdb \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
