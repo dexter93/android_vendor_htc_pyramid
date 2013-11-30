@@ -74,6 +74,10 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b03:system/etc/firmware/vidc.b03 \
+  vendor/htc-extra/pyramid/proprietary/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd:system/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd \
+  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4329.bin:system/etc/firmware/fw_bcm4329.bin \
+  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4329_apsta.bin:system/etc/firmware/fw_bcm4329_apsta.bin \
+  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4329_p2p.bin:system/etc/firmware/fw_bcm4329_p2p.bin \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/default_bak.acdb:system/etc/firmware/default_bak.acdb \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
