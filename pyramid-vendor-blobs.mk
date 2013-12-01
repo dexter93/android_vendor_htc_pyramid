@@ -67,6 +67,7 @@ PRODUCT_COPY_FILES += \
    vendor/htc-extra/pyramid/proprietary/lib/libOlaEngineNew.so:/system/lib/libOlaEngineNew.so \
   vendor/htc-extra/pyramid/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
   vendor/htc-extra/pyramid/proprietary/etc/agps_rm:system/etc/agps_rm \
+  vendor/htc-extra/pyramid/proprietary/etc/thermald.conf:system/etc/thermald.conf \
   vendor/htc-extra/pyramid/proprietary/etc/calibration:system/etc/calibration \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
