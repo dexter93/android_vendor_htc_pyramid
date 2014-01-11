@@ -51,7 +51,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libimage-jpeg-enc-omx-comp.so:/system/lib/libimage-jpeg-enc-omx-comp.so \
   vendor/htc-extra/pyramid/proprietary/lib/libimage-omx-common.so:/system/lib/libimage-omx-common.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_faceproc.so:/system/lib/libmmcamera_faceproc.so \
-  vendor/htc/pyramid/proprietary/lib/hw/camera.default.so:system/lib/hw/vendor-camera.default.so \
+  vendor/htc-extra/pyramid/proprietary/lib/hw/camera.default.so:system/lib/hw/vendor-camera.default.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_frameproc.so:/system/lib/libmmcamera_frameproc.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_hdr_lib.so:/system/lib/libmmcamera_hdr_lib.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_image_stab.so:/system/lib/libmmcamera_image_stab.so \
