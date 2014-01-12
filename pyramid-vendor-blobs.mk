@@ -58,14 +58,27 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_interface2.so:/system/lib/libmmcamera_interface2.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_rawchipproc.so:/system/lib/libmmcamera_rawchipproc.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_statsproc31.so:/system/lib/libmmcamera_statsproc31.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_statsproc30.so:/system/lib/libmmcamera_statsproc30.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_wavelet_lib.so:/system/lib/libmmcamera_wavelet_lib.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmipl.so:/system/lib/libmmipl.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmmpod.so:/system/lib/libmmmpod.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmmpo.so:/system/lib/libmmmpo.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmmstillomx.so:/system/lib/libmmstillomx.so \
   vendor/htc-extra/pyramid/proprietary/lib/liboemcamera.so:/system/lib/liboemcamera.so \
-   vendor/htc-extra/pyramid/proprietary/lib/libOlaEngineNew.so:/system/lib/libOlaEngineNew.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libOlaEngineNew.so:/system/lib/libOlaEngineNew.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libDxOAF.so:/system/lib/libDxOAF.so \
   vendor/htc-extra/pyramid/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmstereo.so:/system/lib/libmmstereo.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_default_video.so:/system/lib/libchromatix_s5k3h1gx_default_video.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_hfr.so:/system/lib/libchromatix_s5k3h1gx_hfr.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_zsl.so:/system/lib/libchromatix_s5k3h1gx_zsl.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_default_video.so:/system/lib/libchromatix_s5k3h2yx_default_video.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_hdr.so:/system/lib/libchromatix_s5k3h2yx_hdr.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_hfr.so:/system/lib/libchromatix_s5k3h2yx_hfr.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_preview.so:/system/lib/libchromatix_s5k3h2yx_preview.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_zsl.so:/system/lib/libchromatix_s5k3h2yx_zsl.so \
   vendor/htc-extra/pyramid/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc-extra/pyramid/proprietary/etc/thermald.conf:system/etc/thermald.conf \
   vendor/htc-extra/pyramid/proprietary/etc/calibration:system/etc/calibration \
