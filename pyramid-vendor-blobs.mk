@@ -1,4 +1,4 @@
-# Copyright (C) 2011 The CyanogenMod Project
+﻿# Copyright (C) 2011 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -39,41 +39,26 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/bin/thermald:system/bin/thermald \
   vendor/htc-extra/pyramid/proprietary/bin/zchgd:system/bin/zchgd \
   vendor/htc-extra/pyramid/proprietary/bin/awb_camera:system/bin/awb_camera \
-  vendor/htc-extra/pyramid/proprietary/lib/libBeautyChat.so:/system/lib/libBeautyChat.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libcameraasd.so:/system/lib/libcameraasd.so \
   vendor/htc-extra/pyramid/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
   vendor/htc-extra/pyramid/proprietary/lib/libcamerapp.so:/system/lib/libcamerapp.so \
   vendor/htc-extra/pyramid/proprietary/lib/libcam_oem_plugin.so:/system/lib/libcam_oem_plugin.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libgemini.so:/system/lib/libgemini.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libHTC_DIS.so:/system/lib/libHTC_DIS.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libhtccamera.so:/system/lib/libhtccamera.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libimage-jpeg-dec-omx-comp.so:/system/lib/libimage-jpeg-dec-omx-comp.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libimage-jpeg-enc-omx-comp.so:/system/lib/libimage-jpeg-enc-omx-comp.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libimage-omx-common.so:/system/lib/libimage-omx-common.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_faceproc.so:/system/lib/libmmcamera_faceproc.so \
-  vendor/htc-extra/pyramid/proprietary/lib/hw/camera.msm8660.so:system/lib/hw/vendor-camera.msm8660.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_frameproc.so:/system/lib/libmmcamera_frameproc.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_hdr_lib.so:/system/lib/libmmcamera_hdr_lib.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_image_stab.so:/system/lib/libmmcamera_image_stab.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_interface2.so:/system/lib/libmmcamera_interface2.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_rawchipproc.so:/system/lib/libmmcamera_rawchipproc.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_statsproc31.so:/system/lib/libmmcamera_statsproc31.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_statsproc30.so:/system/lib/libmmcamera_statsproc30.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_wavelet_lib.so:/system/lib/libmmcamera_wavelet_lib.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmipl.so:/system/lib/libmmipl.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmjpeg.so:/system/lib/libmmjpeg.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmmpod.so:/system/lib/libmmmpod.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmmpo.so:/system/lib/libmmmpo.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmstillomx.so:/system/lib/libmmstillomx.so \
-  vendor/htc-extra/pyramid/proprietary/lib/liboemcamera.so:/system/lib/liboemcamera.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libOlaEngineNew.so:/system/lib/libOlaEngineNew.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libDxOAF.so:/system/lib/libDxOAF.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libposteffect.so:/system/lib/libposteffect.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libmmstereo.so:/system/lib/libmmstereo.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_default_video.so:/system/lib/libchromatix_s5k3h1gx_default_video.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_hfr.so:/system/lib/libchromatix_s5k3h1gx_hfr.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_zsl.so:/system/lib/libchromatix_s5k3h1gx_zsl.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libDxOAF.so:system/lib/libDxOAF.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libgemini.so:system/lib/libgemini.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_rawchipproc.so:system/lib/libmmcamera_rawchipproc.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmcamera_statsproc30.so:system/lib/libmmcamera_statsproc30.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmjpeg.so:system/lib/libmmjpeg.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmmpo.so:system/lib/libmmmpo.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmstereo.so:system/lib/libmmstereo.so \
+  vendor/htc-extra/pyramid/proprietary/lib/liboemcamera.so:system/lib/liboemcamera.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libOlaEngine.so:system/lib/libOlaEngine.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libposteffect.so:system/lib/libposteffect.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_default_video.so:system/lib/libchromatix_s5k3h2yx_default_video.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_hdr.so:system/lib/libchromatix_s5k3h2yx_hdr.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_hfr.so:system/lib/libchromatix_s5k3h2yx_hfr.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_preview.so:system/lib/libchromatix_s5k3h2yx_preview.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h2yx_zsl.so:system/lib/libchromatix_s5k3h2yx_zsl.so \
   vendor/htc-extra/pyramid/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc-extra/pyramid/proprietary/etc/thermald.conf:system/etc/thermald.conf \
   vendor/htc-extra/pyramid/proprietary/etc/calibration:system/etc/calibration \
