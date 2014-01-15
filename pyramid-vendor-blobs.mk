@@ -76,15 +76,16 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libdsi_netctrl.so:system/lib/libdsi_netctrl.so \
   vendor/htc-extra/pyramid/proprietary/lib/libdsutils.so:system/lib/libdsutils.so \
   vendor/htc-extra/pyramid/proprietary/lib/libhtc_ril.so:system/lib/libhtc_ril.so \
-  vendor/htc-extra/pyramid/proprietary/lib/libhtc_rilhook.so:system/lib/libhtc_rilhook.so \
   vendor/htc-extra/pyramid/proprietary/lib/libidl.so:system/lib/libidl.so \
   vendor/htc-extra/pyramid/proprietary/lib/libnetmgr.so:system/lib/libnetmgr.so \
   vendor/htc-extra/pyramid/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
   vendor/htc-extra/pyramid/proprietary/lib/libqdp.so:system/lib/libqdp.so \
   vendor/htc-extra/pyramid/proprietary/lib/libqmi.so:system/lib/libqmi.so \
+  vendor/htc-extra/pyramid/proprietary/lib/hw/camera.msm8660.so:system/lib/hw/camera.msm8660.so \
   vendor/htc-extra/pyramid/proprietary/lib/hw/sensors.pyramid.so:system/lib/hw/sensors.pyramid.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmllite.so:system/lib/libmllite.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmpl_jni.so:system/lib/libmpl_jni.so \
   vendor/htc-extra/pyramid/proprietary/lib/libmpl.so:system/lib/libmpl.so \
   vendor/htc-extra/pyramid/proprietary/lib/libv8.so:system/lib/libv8.so  
+  vendor/htc-extra/pyramid/proprietary/libsurfaceflinger_client.so:system/lib/libsurfaceflinger_client.so      
