@@ -1,8 +1,8 @@
 PRODUCT_COPY_FILES += \
-	vendor/htc-extra/pyramid/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
-	vendor/htc-extra/pyramid/proprietary/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
-	vendor/htc-extra/pyramid/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
-	vendor/htc-extra/pyramid/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libacdbloader.so:obj/lib/libacdbloader.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libacdbmapper.so:obj/lib/libacdbmapper.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libaudioalsa.so:obj/lib/libaudioalsa.so \
+  vendor/htc-extra/pyramid/proprietary/lib/libmmjpeg.so:obj/lib/libmmjpeg.so \
   vendor/htc-extra/pyramid/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
   vendor/htc-extra/pyramid/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
   vendor/htc-extra/pyramid/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
@@ -39,23 +39,11 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_hfr.so:/system/lib/libchromatix_s5k3h1gx_hfr.so \
   vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
   vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_zsl.so:/system/lib/libchromatix_s5k3h1gx_zsl.so \
-  vendor/htc-extra/pyramid/proprietary/etc/agps_rm:system/etc/agps_rm \
   vendor/htc-extra/pyramid/proprietary/etc/thermald.conf:system/etc/thermald.conf \
   vendor/htc-extra/pyramid/proprietary/etc/calibration:system/etc/calibration \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b01:system/etc/firmware/vidc.b01 \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b02:system/etc/firmware/vidc.b02 \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b00:system/etc/firmware/vidc.b00 \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.b03:system/etc/firmware/vidc.b03 \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd:system/etc/firmware/BCM4329B1_002.002.023.0589.0632.hcd \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4329.bin:system/etc/firmware/fw_bcm4329.bin \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4329_apsta.bin:system/etc/firmware/fw_bcm4329_apsta.bin \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/fw_bcm4329_p2p.bin:system/etc/firmware/fw_bcm4329_p2p.bin \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/default_bak.acdb:system/etc/firmware/default_bak.acdb \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/vidcfw.elf:system/etc/firmware/vidcfw.elf \
-  vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc.mdt:system/etc/firmware/vidc.mdt \
   vendor/htc-extra/pyramid/proprietary/lib/egl/eglsubAndroid.so:system/lib/egl/eglsubAndroid.so \
   vendor/htc-extra/pyramid/proprietary/lib/egl/libEGL_adreno200.so:system/lib/egl/libEGL_adreno200.so \
   vendor/htc-extra/pyramid/proprietary/lib/egl/libGLESv1_CM_adreno200.so:system/lib/egl/libGLESv1_CM_adreno200.so \
