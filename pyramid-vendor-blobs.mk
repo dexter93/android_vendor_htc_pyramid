@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/bin/netsharing:system/bin/netsharing \
   vendor/htc-extra/pyramid/proprietary/bin/qmuxd:system/bin/qmuxd \
   vendor/htc-extra/pyramid/proprietary/bin/rmt_storage:system/bin/rmt_storage \
-  vendor/htc-extra/pyramid/proprietary/bin/thermald:system/bin/thermald \
   vendor/htc-extra/pyramid/proprietary/bin/zchgd:system/bin/zchgd \
   vendor/htc-extra/pyramid/proprietary/bin/awb_camera:system/bin/awb_camera \
   vendor/htc-extra/pyramid/proprietary/lib/libcameraface.so:/system/lib/libcameraface.so \
@@ -39,8 +38,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_hfr.so:/system/lib/libchromatix_s5k3h1gx_hfr.so \
   vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_preview.so:/system/lib/libchromatix_s5k3h1gx_preview.so \
   vendor/htc-extra/pyramid/proprietary/lib/libchromatix_s5k3h1gx_zsl.so:/system/lib/libchromatix_s5k3h1gx_zsl.so \
-  vendor/htc-extra/pyramid/proprietary/etc/thermald.conf:system/etc/thermald.conf \
-  vendor/htc-extra/pyramid/proprietary/etc/calibration:system/etc/calibration \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
   vendor/htc-extra/pyramid/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
